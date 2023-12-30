@@ -6,3 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 [docs](https://nextjs.org/docs)
 [docs](https://nextjs.org/learn/dashboard-app/getting-started)
+[docs](https://nextjs.org/learn/dashboard-app/getting-started)
